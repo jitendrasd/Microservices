@@ -22,7 +22,8 @@ Step 5: In new tab, type http://localhost:9195/hystrix for open Hystrix dashbord
 
 Step 6: Open Postman .
   a) Postman - http://localhost:8989/order (POST)
-        choose body and file type JOSN
+        choose body and file type JOSN.
+        
         {
           "id": 1,
           "name": "Laptop",
