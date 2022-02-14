@@ -1,13 +1,13 @@
 Step 1: Compile And Build all five projects 
 
-  a) Registry file
+  a) Registry Service
   b) Order Service
   c) Payment Service
   d) Cloud Service
   e) Hystrix Dashboard
   
 Step 2: Run using jar file in given below order. Fist run always Registry service.
-  a) Registry file
+  a) Registry Service
   b) Order Service
   c) Payment Service
   d) Cloud Service
