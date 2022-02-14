@@ -18,7 +18,7 @@ Step 3:
   
 Step 4: In new tab, type http://localhost:8989/actuator/hystrix.stream for checking streaming.
 
-Step 5: In new tab, type http://localhost:9195/hystrix for open Hystrix dashbord for monitoring all micro services ORDER-SERVCE and PAYMENT SERVICE
+Step 5: In new tab, type http://localhost:9195/hystrix for open Hystrix dashbord for monitoring all micro services ORDER-SERVICE and PAYMENT SERVICE
 
 Step 6: Open Postman .
   a) Postman - http://localhost:8989/order (POST)
